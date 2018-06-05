@@ -29,7 +29,7 @@ In this repository, we leverage embeddings to learn representations of Irish sen
 
 <table>
     <tr>
-        <td align="center"><img src='img/irish.png' /><div style='word-wrap: break-word;width:200px'>Word Embeddings</div></td>
+        <td align="center"><img src='img/irish.png' /><div style='word-wrap: break-word;width:200px'>Irish Senators Embeddings using PCA</div></td>
     </tr>
 </table>
 
