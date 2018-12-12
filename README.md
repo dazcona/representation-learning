@@ -1,5 +1,11 @@
 # Learning representations in Irish Politics
 
+I authored a publication on the increasingly popular RTÉ Brainstorm in collaboration with Dublin City University's School of Law and Government:
+
+[Here's how data mining can offer fresh insights on Irish politics](https://www.rte.ie/eile/brainstorm/2018/0703/975980-heres-how-data-mining-can-offer-fresh-insights-on-irish-politics/)
+
+--
+
 In Machine Learning, [Representation Learning][rl] is a set of techniques that allows a system to automatically discover the representations needed for feature detection or classification from raw data. This replaces manual feature engineering and allows a machine to both learn the features and use them to perform a specific task.
 
 ## Representational Learning
